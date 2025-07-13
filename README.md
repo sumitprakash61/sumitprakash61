@@ -104,20 +104,19 @@ Predicts early-stage lung cancer using classification models and medical dataset
 - Managed event logistics and operations across multiple technical fests.
 
 ---
-![Sumit's GitHub contributions](https://github-contributions-api.now.sh/v1/sumitprakash61)
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitprakash61&show_icons=true&theme=radical&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumitprakash61&theme=radical)
+
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats & Contribution Graph
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sumitprakash61&theme=radical)](https://github.com/sumitprakash61)
 
-![Sumit's GitHub contributions](https://github-contributions-api.now.sh/v1/sumitprakash61)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitprakash61&theme=github)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumitprakash61&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitprakash61&show_icons=true&count_private=true&theme=dark)
 
 ---
+
 
 ---
 ## 🔗 Let's Connect
