@@ -1,57 +1,65 @@
 # Hi there! 👋
 
+I'm **Sumit Prakash** — a passionate **Full Stack Developer**, **AI/ML Enthusiast**, and final-year **B.Tech Computer Engineering** student specializing in **Cyber Security** from **Ramrao Adik Institute of Technology**.  
+
+---
+
 ## 🚀 About Me
 
-🎓 I am **Sumit Prakash**, a final year **B.Tech Computer Engineering** student at **Ramrao Adik Institute of Technology**, specializing in **Cyber Security**. Passionate about software development, machine learning, and AI-driven solutions. 
+🎓 I thrive on building tech that solves real-world problems — from **sign language recognition** to **healthcare AI**, and I'm always eager to collaborate on innovative ideas.
 
-💡 I love building projects that solve real-world problems — from **sign language recognition** to **healthcare detection systems**. 
+💡 I enjoy applying my knowledge of **software engineering**, **machine learning**, and **cybersecurity** in hands-on projects and real-time systems.
 
-🧠 I'm always curious to explore new technologies and contribute meaningfully to engineering and research projects.
-
-📌 I'm currently looking for **internships and job opportunities** in the field of **Software Development**, **AI/ML**, and **Cybersecurity**.
+🔍 Currently seeking **internship/job opportunities** in:
+- Software Development
+- Artificial Intelligence / Machine Learning
+- Cybersecurity & DevSecOps
 
 ---
 
 ## 🧑‍💻 Projects
 
-- **EduPulse – Online Class Attentiveness Detector**
-  - Python, OpenCV
-  - Used webcam feeds to monitor and track student attention levels using facial and eye detection.
+### 🔹 **EduPulse – Online Class Attentiveness Detector**
+> *Python, OpenCV*  
+Tracks student attentiveness during online classes using facial landmark detection and real-time webcam analysis.
 
-- **Sign Language Translation System**
-  - Python, OpenCV, TensorFlow, Mediapipe
-  - Translates real-time sign language gestures into text using deep learning and computer vision.
+### 🔹 **Sign Language Translation System**
+> *Python, TensorFlow, OpenCV, Mediapipe*  
+Translates real-time sign language gestures into readable text using deep learning and computer vision.
 
-- **Lung Cancer Detection Using ML**
-  - Python, Scikit-learn, Pandas
-  - Early-stage cancer prediction using patient data and medical imaging with ML algorithms.
+### 🔹 **Lung Cancer Detection Using ML**
+> *Python, Scikit-learn, Pandas*  
+Predicts early-stage lung cancer using classification models and medical datasets.
+
+> 🧩 *These are just a few of my projects!*  
+🚀 Explore more on [GitHub →](https://github.com/sumitprakash61?tab=repositories)
 
 ---
 
 ## 💼 Experience
 
-### JBL Logistics LLP _(Jul 2024 – Oct 2024)_
-**Intern – Mumbai (Hybrid)**
-- Automated logistics tracking systems.
-- Contributed to workplace coordination and reporting systems.
+### 📦 JBL Logistics LLP (Intern)  
+**Jul 2024 – Oct 2024 | Mumbai (Hybrid)**
+- Automated logistics tracking and reporting tools.
+- Gained experience coordinating hybrid workplace systems.
 
-### Centre for Railway Information Systems (CRIS) _(Dec 2023 – Jan 2024)_
-**Intern – Mumbai (On-site)**
-- Worked with real-time data systems for railway scheduling.
-- Assisted in software maintenance and updates.
+### 🚄 Centre for Railway Information Systems – CRIS (Intern)  
+**Dec 2023 – Jan 2024 | Mumbai (On-site)**
+- Supported railway infrastructure data systems.
+- Assisted with real-time scheduling and feature updates.
 
 ---
 
 ## 🛠️ Skills
 
-### Languages
+### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -64,42 +72,45 @@
 
 ## 🎓 Education
 
-**Ramrao Adik Institute of Technology** (2022 – Present)  
-*B.Tech in Computer Engineering*  
-_Minor in Cyber Security | CGPA: 9.10/10_
+**Ramrao Adik Institute of Technology, D.Y. Patil University**  
+📍 Navi Mumbai | 🧑‍🎓 B.Tech in Computer Engineering  
+🛡️ *Minor: Cyber Security* | 📈 *CGPA: 9.10/10*  
+📅 2022 – Present
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 Google Cybersecurity – Coursera  
-- 🏅 Google AI Essentials – Coursera  
-- 🏅 AWS Cloud Foundations – AWS Academy  
-- 🏅 Ethical Hacking Essentials (EHE) – edX  
-- 🏅 Web Development & Dashboarding – edX  
+- 🏅 Google Cybersecurity – *Coursera*  
+- 🧠 Google AI Essentials – *Coursera*  
+- ☁️ AWS Cloud Foundations – *AWS Academy*  
+- 🕵️ Ethical Hacking Essentials (EHE) – *edX*  
+- 🌐 Web Development & SQL Dashboarding – *edX*
 
 ---
 
-## 📌 Extracurriculars
+## 📌 Leadership & Volunteering
 
-- 🧠 **Publicity Head – IEEE RAIT** (2024–2025)  
-  Organized events and led a team of volunteers.
-  
-- 🤝 **Volunteer – NSS** (2023–Present)  
-  Contributed to community initiatives and awareness campaigns.
+### IEEE RAIT  
+🎤 **Publicity Head** _(2024–2025)_  
+- Coordinated promotional activities and led event branding campaigns.
 
-- ⚙️ **Techfest Organizer – IEEE RAIT & ACM RAIT**  
-  Organized flagship events, ensured coordination and participation.
+### National Service Scheme (NSS)  
+🤝 **Volunteer** _(2023–Present)_  
+- Participated in social initiatives and awareness campaigns.
+
+### Techfest Organizer  
+🛠️ **IEEE RAIT & ACM RAIT** _(2023–2025)_  
+- Managed event logistics and operations across multiple technical fests.
 
 ---
 
-## 🔗 Links
+## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitprakash61)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitprakash61)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitprakash61@gmail.com)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitprakash61@gmail.com)  
 
 ---
 
-🔍 _Always open to collaboration and opportunities!_
-
+🔍 _Always open to collaboration, freelancing, and exciting opportunities!_
