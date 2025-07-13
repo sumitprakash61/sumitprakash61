@@ -2,6 +2,8 @@
 
 I'm **Sumit Prakash** — a passionate **Full Stack Developer**, **AI/ML Enthusiast**, and final-year **B.Tech Computer Engineering** student specializing in **Cyber Security** from **Ramrao Adik Institute of Technology**.  
 
+### Building smarter software with AI & security in mind.
+
 ---
 
 ## 🚀 About Me
@@ -107,9 +109,9 @@ Predicts early-stage lung cancer using classification models and medical dataset
 
 ## 📊 GitHub Stats & Contributions
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumitprakash61&theme=radical&no-frame=true&no-bg=true)](https://github.com/sumitprakash61)
 
-![Sumit's GitHub contributions](https://github-contributions-api.now.sh/v1/sumitprakash61)
+
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumitprakash61&theme=radical)
 
@@ -126,4 +128,5 @@ Predicts early-stage lung cancer using classification models and medical dataset
 
 ---
 
-🔍 _Always open to collaboration, freelancing, and exciting opportunities!_
+🔍 _Always open to collaboration, freelancing, and exciting opportunities!_  
+🔍 *Feel free to reach out if you want to collaborate or chat about software, AI, or cybersecurity!*
