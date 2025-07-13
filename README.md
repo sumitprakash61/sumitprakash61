@@ -105,17 +105,16 @@ Predicts early-stage lung cancer using classification models and medical dataset
 
 ---
 
----
+## 📊 GitHub Stats & Contributions
 
-## 📊 GitHub Stats & Contribution Graph
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumitprakash61&theme=radical&no-frame=true&no-bg=true)](https://github.com/sumitprakash61)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumitprakash61&theme=radical)](https://github.com/sumitprakash61)
+![Sumit's GitHub contributions](https://github-contributions-api.now.sh/v1/sumitprakash61)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumitprakash61&theme=radical)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitprakash61&theme=github)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitprakash61&show_icons=true&count_private=true&theme=dark)
-
----
 
 
 ---
