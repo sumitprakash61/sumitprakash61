@@ -113,7 +113,7 @@ Predicts early-stage lung cancer using classification models and medical dataset
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumitprakash61&theme=radical)
+
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitprakash61&theme=github)
 
