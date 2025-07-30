@@ -76,7 +76,7 @@ Predicts early-stage lung cancer using classification models and medical dataset
 
 **Ramrao Adik Institute of Technology, D.Y. Patil University**  
 📍 Navi Mumbai | 🧑‍🎓 B.Tech in Computer Engineering  
-🛡️ *Minor: Cyber Security* | 📈 *CGPA: 9.10/10*  
+🛡️ *Minor: Cyber Security* | 📈 *CGPA: 9.24/10*  
 📅 2022 – Present
 
 ---
